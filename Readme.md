@@ -49,7 +49,7 @@ This repository contains Jupyter Notebooks that reinforce the theoretical lectur
 ```bash
 # Clone the repository
 git clone https://github.com/HAYDARKILIC/generative_artificial_intelligence
-cd uretken_yapay_zeka
+cd generative_artificial_intelligence
 
 # Create a virtual environment (recommended)
 python -m venv venv
@@ -90,5 +90,6 @@ uretken-yapay-zeka/
 ```
 
 ---
+
 
 *Generative Artificial Intelligence — Haydar Kılıç, Artificial Intelligence Engineering*
