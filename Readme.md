@@ -82,7 +82,7 @@ jupyter>=1.0
 ## 🏗 Project Structure
 
 ```
-uretken-yapay-zeka/
+generative_artificial_intelligence/
 ├── README.md
 ├── requirements.txt
 ├── GAI_Lecture1_Notebook.ipynb   # Lecture 1 — Fundamental Concepts
@@ -93,3 +93,4 @@ uretken-yapay-zeka/
 
 
 *Generative Artificial Intelligence — Haydar Kılıç, Artificial Intelligence Engineering*
+
