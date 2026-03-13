@@ -1,6 +1,13 @@
-numpy>=1.24
-matplotlib>=3.5
-scipy>=1.9
-scikit-learn>=1.0
+# Generative AI — Dependencies
+# NumPy 2.0+ required (for np.trapezoid support)
+numpy>=2.0
+matplotlib>=3.7
+scipy>=1.11
+scikit-learn>=1.3
 jupyter>=1.0
 ipykernel>=6.0
+
+# Required from Lecture 3 onwards (VAE · GAN · GMMN · Diffusion · Transformer)
+torch>=2.0
+torchvision>=0.15
+tqdm>=4.65
