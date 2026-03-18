@@ -1,6 +1,6 @@
-# 🤖 Generative AI — Lecture Notes and Hands-On Notebooks
+# 🤖 Generative AI
 
-**Haydar Kilic | Faculty of Engineering, Artificial Intelligence Engineering**
+**Haydar Kilic | Artificial Intelligence Engineering**
 
 This repository contains Jupyter Notebooks that reinforce the theoretical slide content of the *Generative AI* course with Python. Each notebook derives and visualises the formulas covered in lectures from scratch, and adapts them to real data scenarios.
 
