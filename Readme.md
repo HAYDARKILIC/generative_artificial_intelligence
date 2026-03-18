@@ -263,11 +263,17 @@ generative-ai/
 ## 📖 References
 
 Pattern Recognition and Machine Learning – Christopher M. Bishop (1st Ed., 2006), Ch. 1–2
+
 Machine Learning: A Probabilistic Perspective – Kevin P. Murphy (1st Ed., 2012), Ch. 3
+
 Deep Learning – Goodfellow, Bengio, Courville (1st Ed., 2016), Ch. 20.10.3
+
 Deep Learning – Goodfellow, Bengio, Courville (1st Ed., 2016), Ch. 20.10.4
+
 Probabilistic Machine Learning: Advanced Topics – Kevin P. Murphy (1st Ed., 2023), Ch. 25
+
 Natural Language Processing with Transformers – Lewis et al. (1st Ed., 2022), Ch. 1–2
+
 Speech and Language Processing – Jurafsky & Martin (3rd Ed., draft), Ch. 3, 10, 11
 
 *Generative AI — Haydar Kılıç, Artificial Intelligence Engineering*
