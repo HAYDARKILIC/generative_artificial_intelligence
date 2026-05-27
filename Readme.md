@@ -2,7 +2,7 @@
 
 **Haydar Kilic | Artificial Intelligence Engineering**
 
-This repository contains Jupyter Notebooks that reinforce the theoretical slide content of the *Generative AI* course with Python. Each notebook derives and visualises the formulas covered in lectures from scratch, and adapts them to real data scenarios.
+A comprehensive, hands-on guide to the fundamentals and advanced concepts of Generative Artificial Intelligence (GAI). This repository contains a curated series of Jupyter Notebooks bridging the gap between foundational statistical theory and state-of-the-art deep generative architectures.
 
 ---
 
